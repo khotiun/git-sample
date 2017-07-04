@@ -1,4 +1,9 @@
 change
+<<<<<<< HEAD
  123 323
 It`s new line.
 Add new line.
+=======
+ 123
+It`s new line.
+>>>>>>> parent of 08bf9ae... Git status
